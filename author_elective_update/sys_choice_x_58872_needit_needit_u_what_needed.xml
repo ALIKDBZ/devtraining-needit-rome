@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-09-02 13:09:45</sys_created_on>
-            <sys_id>87acd77f97e11110b1ad797e6253af75</sys_id>
+            <sys_id>670a111a9786d110b1ad797e6253afff</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_what_needed</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -27,13 +27,13 @@
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4facd77f97e11110b1ad797e6253af74</sys_id>
+            <sys_id>e6b52d9297c6d110b1ad797e6253af30</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:35</sys_updated_on>
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -47,13 +47,13 @@
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:35</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>cfacd77f97e11110b1ad797e6253af78</sys_id>
+            <sys_id>e6b52d9297c6d110b1ad797e6253af33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:35</sys_updated_on>
             <value>hr2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -67,13 +67,13 @@
             <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>87acd77f97e11110b1ad797e6253af7b</sys_id>
+            <sys_id>aeb52d9297c6d110b1ad797e6253af35</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:36</sys_updated_on>
             <value>facilities1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -87,13 +87,13 @@
             <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4facd77f97e11110b1ad797e6253af7d</sys_id>
+            <sys_id>66b52d9297c6d110b1ad797e6253af38</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:36</sys_updated_on>
             <value>facilities2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -107,13 +107,13 @@
             <sequence>4</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>07acd77f97e11110b1ad797e6253af80</sys_id>
+            <sys_id>2eb52d9297c6d110b1ad797e6253af3a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:36</sys_updated_on>
             <value>legal1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -127,13 +127,13 @@
             <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>cbacd77f97e11110b1ad797e6253af82</sys_id>
+            <sys_id>e2b52d9297c6d110b1ad797e6253af3d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:36</sys_updated_on>
             <value>legal2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -147,13 +147,13 @@
             <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>83acd77f97e11110b1ad797e6253af85</sys_id>
+            <sys_id>aab52d9297c6d110b1ad797e6253af3f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:36</sys_updated_on>
             <value>your_choice1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -167,14 +167,34 @@
             <sequence>7</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-09-02 13:09:45</sys_created_on>
+            <sys_created_on>2022-09-22 09:10:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4bacd77f97e11110b1ad797e6253af87</sys_id>
+            <sys_id>62b52d9297c6d110b1ad797e6253af42</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-09-02 13:09:45</sys_updated_on>
+            <sys_updated_on>2022-09-22 09:10:36</sys_updated_on>
             <value>your_choice2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-22 09:10:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ab52d9297c6d110b1ad797e6253af44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-22 09:10:36</sys_updated_on>
+            <value>other</value>
         </sys_choice>
     </sys_choice>
 </record_update>
